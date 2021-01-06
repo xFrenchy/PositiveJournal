@@ -1,0 +1,9 @@
+/*This is not being used, had an issue where I had boostrap installed instead of bootstrap >:(*/
+.homepage-topbar{
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+    height: 400px;
+    width: 400px;
+}
